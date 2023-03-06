@@ -1,0 +1,9 @@
+1. cd door_management_files
+2. cd door_configuration
+3. chmod 777 door_1.conf 
+4. vim door_1.conf
+5.  Shift + I
+6. Удаление статуса через BACKSPACE, DEL 
+7.  Написание статуса OPEN
+8. Нажатие ESC
+9. Нажатия двоеточия :  и изменение с сохранением wq
